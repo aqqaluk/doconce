@@ -1,0 +1,1 @@
+Doconce has moved to [GitHub](https://github.com/hplgit/doconce).
